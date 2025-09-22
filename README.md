@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Darragh — CS Student • Projects & Notes" width="100%" />
+</p>
 
-<!--
-**DKennedy-25/DKennedy-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I’m Darragh 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/DKennedy-25?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-%2B?style=for-the-badge"></a>
+  <a href="mailto:dkennedy7274@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi?style=for-the-badge&logo=gmail"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured work
+- 🔗 [To add later](#)
+
+### Toolbox
+Java · Python · C · Git · Linux
+
+> !!!Most course repos are private during grading; I open-source after.
