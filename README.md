@@ -17,7 +17,7 @@
   </p>
 
 <!-- Tech stack -->
-<div align="center" style="margin: 24px 0;">
+<div align="center" style="margin: 24px 0 40px 0;">
   <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>Java</strong></span>
   <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>Python</strong></span>
   <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>C</strong></span>
@@ -27,10 +27,8 @@
   <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>Linux</strong></span>
 </div>
 
-
-
   <!-- Blurb -->
-  <p style="max-width:720px;margin:24px 0 40px;font-size:15px;line-height:1.6;">
+  <p style="max-width:720px;margin:24px 0;font-size:15px;line-height:1.6;">
     I like building small, sharp tools and tidy lab solutions. Right now I’m practicing
     Java fundamentals, and messing with databases. Coursework stays private
     during grading — I open-source after.
