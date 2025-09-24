@@ -11,7 +11,7 @@
       📫 Email
     </a>
     &nbsp;•&nbsp;
-    <a href="[www.linkedin.com/in/darragh-kennedy-5817b5356](https://www.linkedin.com/in/darragh-kennedy-5817b5356/)" target="_blank" style="text-decoration:none;">
+    <a href="https://www.linkedin.com/in/darragh-kennedy-5817b5356/" target="_blank" style="text-decoration:none;">
       💼 LinkedIn
     </a>
     &nbsp;•&nbsp;
