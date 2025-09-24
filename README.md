@@ -30,7 +30,7 @@
 
 
   <!-- Blurb -->
-  <p style="max-width:720px;margin:24px;font-size:15px;line-height:1.6;">
+  <p style="max-width:720px;margin:24px 0;font-size:15px;line-height:1.6;">
     I like building small, sharp tools and tidy lab solutions. Right now I’m practicing
     Java fundamentals, and messing with databases. Coursework stays private
     during grading — I open-source after.
