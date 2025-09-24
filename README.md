@@ -16,20 +16,17 @@
     </a>
   </p>
 
-  <div></div>
-
-  <!-- Tech pills -->
 <!-- Tech stack -->
 <div align="center" style="margin: 24px 0;">
-  <strong>Languages & Tools:</strong><br><br>
-  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;font-weight:bold;">Java</span>
-  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;font-weight:bold;">Python</span>
-  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;font-weight:bold;">C</span>
-  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;font-weight:bold;">PHP</span>
-  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;font-weight:bold;">MySQL</span>
-  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;font-weight:bold;">Git / GitHub</span>
-  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;font-weight:bold;">Linux</span>
+  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>Java</strong></span>
+  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>Python</strong></span>
+  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>C</strong></span>
+  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>PHP</strong></span>
+  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>MySQL</strong></span>
+  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>Git / GitHub</strong></span>
+  <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;"><strong>Linux</strong></span>
 </div>
+
 
 
   <!-- Blurb -->
