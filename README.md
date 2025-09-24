@@ -14,9 +14,9 @@
     <a href="https://www.linkedin.com/in/darragh-kennedy-5817b5356/" target="_blank" style="text-decoration:none;">
       💼 LinkedIn
     </a>
-    &nbsp;•&nbsp;
-    &nbsp;•&nbsp;
   </p>
+
+  <div></div>
 
   <!-- Tech pills -->
   <div style="display:inline-flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-bottom:20px;">
