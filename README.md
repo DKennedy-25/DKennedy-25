@@ -15,6 +15,7 @@
       💼 LinkedIn
     </a>
     &nbsp;•&nbsp;
+    &nbsp;•&nbsp;
   </p>
 
   <!-- Tech pills -->
