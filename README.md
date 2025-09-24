@@ -29,6 +29,8 @@
     <span style="padding:6px 10px;border:1px solid #e5e7eb;border-radius:999px;">Linux</span>
   </div>
 
+  <div></div>
+
   <!-- Blurb -->
   <p style="max-width:720px;margin:0 auto 16px;font-size:15px;line-height:1.6;">
     I like building small, sharp tools and tidy lab solutions. Right now I’m practicing
