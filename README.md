@@ -8,10 +8,6 @@
   <a href="https://github.com/DKennedy-25?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-%2B?style=for-the-badge"></a>
   <a href="mailto:dkennedy7274@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hi?style=for-the-badge&logo=gmail"></a>
 </p>
-
-### Featured work
-- 🔗 [To add later](#)
-
 ### Toolbox
 Java · Python · C · Git · Linux
 
