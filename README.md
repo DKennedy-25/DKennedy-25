@@ -2,7 +2,7 @@
 <div align="center" style="padding:24px;border-radius:16px;border:1px solid #e5e7eb;background:#fff; color:#0f172a;">
   <h1 style="margin:0 0 8px;font-size:32px;line-height:1.2;">Hey, I’m Darragh 👋</h1>
   <p style="margin:0 0 16px;font-size:16px;">
-    3rd-year Computer Science student • into .
+    3rd-year Computer Science student
   </p>
 
   <!-- Quick links -->
